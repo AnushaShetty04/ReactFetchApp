@@ -1,0 +1,40 @@
+/* .card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+  }
+  .card-registration .select-arrow {
+    top: 13px;
+  } */
+  
+  body{
+    background-color: rgb(174, 187, 243);
+  }
+  
+  
+  .btn{
+    background-color:rgb(233, 196, 250);
+    color:black;
+    font-family:cursive;
+    font-size: larger;
+  }
+  
+  .btn:hover{
+    box-shadow: 0 20px 16px 0 rgba(8, 4, 233, 0.24), 0 17px 50px 0 rgba(100, 188, 214, 0.19);
+    background-color:rgb(8, 8, 8);
+  }
+  
+  .card,.navbar{
+    font-family: cursive;
+  }
+  
+  
+  .card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+  }
+  
+#load{
+  padding-top: 80px;
+}
